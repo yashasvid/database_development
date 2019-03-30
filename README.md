@@ -1,5 +1,4 @@
-# oingo
-database project
+# oingo - Database project
 
 Oingo is a cross between Twitter and FourSquare. It is a system of textual notes that are visible at a certain location for a certain time range. Every user can create these notes for a certain audience (class) like friends, everyone, or self. These notes can be advertisements, reminders for future or notification notes for friends nearby etc. Every note is associated with certain tags that convey the essence of the note like #shopping, #me or #mustvisit.
 
